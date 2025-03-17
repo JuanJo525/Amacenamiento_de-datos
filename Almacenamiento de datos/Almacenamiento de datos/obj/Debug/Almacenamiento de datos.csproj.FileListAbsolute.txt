@@ -1,0 +1,14 @@
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\bin\Debug\Almacenamiento de datos.exe.config
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\bin\Debug\Almacenamiento de datos.exe
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\bin\Debug\Almacenamiento de datos.pdb
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento de datos.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento_de_datos.frm_CSV.resources
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento_de_datos.Properties.Resources.resources
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento de datos.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento de datos.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento de datos.exe
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento de datos.pdb
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento_de_datos.frm_principal.resources
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento_de_datos.frm__fRTF.resources
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento_de_datos.frm_XML.resources
+C:\Users\Juan\source\repos\Almacenamiento de datos\Almacenamiento de datos\obj\Debug\Almacenamiento_de_datos.frm_TXT.resources
